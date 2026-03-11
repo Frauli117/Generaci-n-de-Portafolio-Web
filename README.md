@@ -405,3 +405,21 @@ El sector tecnológico evoluciona rápidamente, por lo que la capacidad de apren
 ### Combinación de habilidades técnicas y blandas
 
 Las empresas valoran desarrolladores que no solo sepan programar, sino que también puedan comunicarse efectivamente, trabajar en equipo y resolver problemas de manera eficiente.
+
+## Diseño y Prototipado
+
+El prototipo del sitio web fue diseñado utilizando **Figma**, considerando una estructura clara, moderna y orientada a un perfil profesional de desarrollador web.
+
+El diseño incluye:
+
+- Landing page
+- Sección de perfil
+- Sección de habilidades
+- Sección de experiencia/proyectos
+- Sección de contacto
+
+El prototipo fue diseñado considerando **responsive design**, incluyendo versiones para **desktop, tablet y mobile**.
+
+### Enlace al prototipo en Figma
+
+https://www.figma.com/site/Co3vHTYjcBmhKp6zYH12sA/Portafolio-Web?node-id=0-1&t=qsdNXKotjCTOrJuk-1
